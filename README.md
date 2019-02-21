@@ -1,7 +1,7 @@
-# Git-Training-Course
+Git-Training-Course
 Testing git functions
 
-# - SSH connection
-# - Pull
-# - Push
-# - Fetch
+- SSH connection
+- Pull
+- Push
+- Fetch
